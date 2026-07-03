@@ -1,0 +1,6 @@
+// Simple animation effect
+document.addEventListener("DOMContentLoaded", () => {
+  console.log("Humanmusic website loaded successfully!");
+});
+
+// Smooth scroll effect (optional future upgrade)
